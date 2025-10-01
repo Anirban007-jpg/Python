@@ -1,2 +1,0 @@
-def fname(arg):
-    pass
